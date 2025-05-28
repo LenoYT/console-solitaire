@@ -1,0 +1,1 @@
+.\SolitaireConsoleApp.exe

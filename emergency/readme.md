@@ -1,0 +1,1 @@
+# In these files there are function that are only likely to be on one operating system
