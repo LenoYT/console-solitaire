@@ -53,12 +53,14 @@ It contains the **last working version** of the app for easy recovery or testing
 <html>
     </br>
     <div align="center">
-        <img alt="author" src="https://img.shields.io/badge/Author-Leo-purple">
-        <img alt="license_mit" src="https://img.shields.io/badge/License-MIT-null">
-        <img alt="gigathon" src="https://img.shields.io/badge/Made_for-Gigathon-red">
-        <img alt="cpp" src="https://img.shields.io/badge/In-C%2B%2B-yellow">
-        <img alt="preffered_platform" src="https://img.shields.io/badge/Preferred_Platform-Windows-0078c2">
-        <img alt="version" src="https://img.shields.io/badge/Version-2.0.0-006e35">
+        <img alt="author" src="https://img.shields.io/badge/Author-Leo-purple" />
+        <img alt="license_mit" src="https://img.shields.io/badge/License-MIT-null" />
+        <img alt="gigathon" src="https://img.shields.io/badge/Made_for-Gigathon-red" />
+        <img alt="cpp" src="https://img.shields.io/badge/In-C%2B%2B-yellow" />
+        <img alt="preffered_platform" src="https://img.shields.io/badge/Preferred_Platform-Windows-0078c2" />
+        <img alt="version" src="https://img.shields.io/badge/Version-2.0.0-006e35" />
+        <a href="https://github.com/LenoYT/console-solitaire">
+            <img alt="github" src="https://img.shields.io/badge/Github-black" />
     </div>
     </br>
 </html>
