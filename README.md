@@ -1,3 +1,8 @@
+<html>
+    <p style="color:red">Comment: btw idk why but for me (idk if for u 2) it always shows 2 contributors, 2 accs that i created but i dont use 1 of them (on github)</p>
+</html>
+
+
 # 🃏🇪🇳 Solitaire Console Application
 
 A minimalist console-based Solitaire game written in C++.  
@@ -59,8 +64,7 @@ It contains the **last working version** of the app for easy recovery or testing
         <img alt="cpp" src="https://img.shields.io/badge/In-C%2B%2B-yellow" />
         <img alt="preffered_platform" src="https://img.shields.io/badge/Preferred_Platform-Windows-0078c2" />
         <img alt="version" src="https://img.shields.io/badge/Version-2.0.0-006e35" />
-        <a href="https://github.com/LenoYT/console-solitaire">
-            <img alt="github" src="https://img.shields.io/badge/Github-black" />
+        <a href="https://github.com/LenoYT/console-solitaire"><img alt="github" src="https://img.shields.io/badge/Github-black" /></a>
     </div>
     </br>
 </html>
